@@ -150,7 +150,7 @@ This tool implements the **Safe Harbor** method of de-identification (45 CFR §1
 
 **Baurzhan Ibrayev** — DICOM Integration Engineer  
 5+ years in medical imaging systems: Orthanc, OHIF, MedDream, DCMTK, HL7, DICOMweb  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/baoricom) · [GitHub](https://github.com/baoricom)
 
 ---
 
